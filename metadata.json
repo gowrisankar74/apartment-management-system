@@ -1,0 +1,6 @@
+{
+  "name": "FixPulse - Local Services & Instant Booking",
+  "description": "On-demand local services platform with real-time technician availability tracking, live dispatch status, transparent pricing, and secure payment processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
